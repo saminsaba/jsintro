@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="namee"></p>
+
+<script>
+var name = window.prompt("What is your name?: ");
+document.getElementById("namee").innerHTML = alert("My name is "+name);
+</script>
+
+
+</body>
+</html>
